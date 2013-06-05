@@ -1,4 +1,4 @@
-Version 1.4.3:
+testVersion 1.4.3:
 	Added css() method which allows getting/setting inline CSS for the WYSIWYG editor.
 	Added Simplified Chinese translation.
 		- Thanks to Yorgo for translating.
